@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/item_selectable"
+              android:clickable="true"
+              android:focusable="true"
+              android:orientation="vertical"
+              android:paddingBottom="10dp"
+              android:paddingLeft="16dp"
+              android:paddingRight="16dp"
+              android:paddingTop="10dp"
+	>
+
+	<TextView
+		android:id="@+id/textView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="------This is rv01---------"
+		/>
+
+	<TextView
+		android:id="@+id/device_name"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="device_name"
+		android:textColor="#f83131"
+		android:textSize="24dp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/device_address"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="device address"
+		android:textColor="@color/title"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/txpower"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="txpower"
+		android:textColor="@color/title"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/manufacturer_data"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="manufacturer_data"
+		android:textColor="@color/title"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/services_uuid"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="services_uuid"
+		android:textColor="@color/title"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/service_data"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="service_data"
+		android:textColor="@color/title"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/textViewbtm"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="------This is rv01---------"
+		/>
+</LinearLayout>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vincentyoumans/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22/app/build/intermediates/pre-dexed/debug/gson-2.6.2_ded623961d8d5a83ce214c8eaa9e6cd584106b32.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="573d840c69a541d22d2c06f0e0908b6c59db4eb4">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5578edd348a6addde03e43214278a33dd67de163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/f8e97a8cc4a2b961ad7b4dbdb8499c10534f7a2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1d164b9c80655720a4c93bad9c199b0bc43dfc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/211ec5500838d8710d455a100a84d9b91380e86d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acab70e6c144340439631f14b379ef82e9efa908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_ccc2e000162739694631650bfdf1b41ec5dd6c9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_0871bd2e437882651543fab0bfffad98f1b029c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/9fda631242b8c0bec889eb84ba1ccffbcbf2acb6/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_89fd23b39675644a0769ccaa2141f76fdb6cd831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_f14957de3fa83dc88357871ef39dff5f27e133f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf1d7895dad298fe1d551d85a6f0d4898c9b1f90/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vincentyoumans/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_f14957de3fa83dc88357871ef39dff5f27e133f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_af59be24f66aad51e6d513de83b7460c19fdb98c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_0f2994eb66740995cb8b7a2c155439fbeda54ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_f14957de3fa83dc88357871ef39dff5f27e133f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/fef3ccbae4a6e64c90194b7cccd9c58ee0130c6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74d00edb88351fd8841fb8ad277a2c8b30808829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ded623961d8d5a83ce214c8eaa9e6cd584106b32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_02d7db6f6e40594f61b383922ed53ddcdf4e70e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/75e1475fbd3a9323f8af3b4d457f27ba724088d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70b6987ae91830803a2d5df12e082f79e2307731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/1554cc42fc29e3a448c9fb5be89af9ba36c935ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9cd2fc40df3e41dea7e768ac8f1e1ded1ef19f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_724da36b8106830a74fec7790d2addb992fc4613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.android/build-cache/9fda631242b8c0bec889eb84ba1ccffbcbf2acb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5bc56b6529011bf61ae7069fe03365c20917c53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_b196117de729fe1a2fa52d9292b27ff1f0450cdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ded623961d8d5a83ce214c8eaa9e6cd584106b32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="879f56b39b4577ff67c690dc2a58744197227840">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYFlo22copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ac37832c18081ed4f264b256b302a7c69d42e83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="329dc8e52f04331f178119464bd92d3e0342441a">
+        <dex dex="/Users/vincentyoumans/Documents/vyDEVELOPMENT/FLO/VYNavLine01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d096e940e542450fe6397cd3a31b6db113bbe8e/classes.dex" />
+    </item>
+
+</items>
